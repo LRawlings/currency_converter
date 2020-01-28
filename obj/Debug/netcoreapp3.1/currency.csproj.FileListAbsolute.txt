@@ -1,0 +1,11 @@
+\\myfiles\lar66\Profiles_Do_Not_Delete\campus\Desktop\currency\currency\bin\Debug\netcoreapp3.1\currency.exe
+\\myfiles\lar66\Profiles_Do_Not_Delete\campus\Desktop\currency\currency\bin\Debug\netcoreapp3.1\currency.deps.json
+\\myfiles\lar66\Profiles_Do_Not_Delete\campus\Desktop\currency\currency\bin\Debug\netcoreapp3.1\currency.runtimeconfig.json
+\\myfiles\lar66\Profiles_Do_Not_Delete\campus\Desktop\currency\currency\bin\Debug\netcoreapp3.1\currency.runtimeconfig.dev.json
+\\myfiles\lar66\Profiles_Do_Not_Delete\campus\Desktop\currency\currency\bin\Debug\netcoreapp3.1\currency.dll
+\\myfiles\lar66\Profiles_Do_Not_Delete\campus\Desktop\currency\currency\bin\Debug\netcoreapp3.1\currency.pdb
+\\myfiles\lar66\Profiles_Do_Not_Delete\campus\Desktop\currency\currency\obj\Debug\netcoreapp3.1\currency.csprojAssemblyReference.cache
+\\myfiles\lar66\Profiles_Do_Not_Delete\campus\Desktop\currency\currency\obj\Debug\netcoreapp3.1\currency.AssemblyInfoInputs.cache
+\\myfiles\lar66\Profiles_Do_Not_Delete\campus\Desktop\currency\currency\obj\Debug\netcoreapp3.1\currency.AssemblyInfo.cs
+\\myfiles\lar66\Profiles_Do_Not_Delete\campus\Desktop\currency\currency\obj\Debug\netcoreapp3.1\currency.dll
+\\myfiles\lar66\Profiles_Do_Not_Delete\campus\Desktop\currency\currency\obj\Debug\netcoreapp3.1\currency.pdb
